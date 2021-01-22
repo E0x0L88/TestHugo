@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://phbots.github.io/TestHugo/orders/</loc>
+    <loc>/orders/</loc>
     <lastmod>2021-01-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phbots.github.io/TestHugo/signals/</loc>
+    <loc>/signals/</loc>
     <lastmod>2021-01-12T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phbots.github.io/TestHugo/</loc>
+    <loc>/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://phbots.github.io/TestHugo/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://phbots.github.io/TestHugo/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
